@@ -1,0 +1,2 @@
+MainPackage=C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\bin\Release\Adventures of Tom_1.0.2.0_AnyCPU.appx
+ResourcePack=C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\bin\Release\Adventures of Tom_1.0.2.0_scale-100.appx

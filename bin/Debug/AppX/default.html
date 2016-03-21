@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Adventures_of_Tom</title>
+
+    <!-- WinJS references -->
+    <link href="WinJS/css/ui-dark.css" rel="stylesheet" />
+    <script src="WinJS/js/base.js"></script>
+    <script src="WinJS/js/ui.js"></script>
+
+    <!-- millionaire references -->
+    <link rel="stylesheet" href="/bootstrap/css/bootstrap.min.css">
+    <link href="/css/default.css" rel="stylesheet" />
+    <script src="/js/easeljs-0.8.2.min.js"></script>
+    <script src="/js/tweenjs-0.6.2.min.js"></script>
+    <script src="/js/preloadjs-0.6.2.min.js"></script>
+    <script src="/js/ndgmr.Collision.js"></script>
+    <script src="/js/mmadlib.js"></script>
+
+    <script src="/js/default.js"></script>
+
+
+</head>
+<body class="win-type-body">
+    <div id="notices" style="height:100%;width:100%">
+        <div class="container text-center" style="border-radius:10px">
+            <h2 class="text-center" id="firsth2">Tom needs to avoid the gennie and eat the cakes to be alive</h2>
+            <div class="row">
+                <div id="additions" class="col-xs-4">
+                    <img src="img/girl2.png" width="150px" />
+                </div>
+                <div class="col-xs-8 text-center">
+                    <p id="shesays"></p>
+                    <h4 class="text-center" id="secondh2">His wife wants a bird. Tom will have to get it to make his wife happy</h4>
+                    <div class="row">
+                        <div class="col-xs-6">
+                            <button id="playGame" class="btn btn-default">
+                                <img src="img/next/play.png" width="70px" />
+                            </button>
+                        </div>
+                        <div id="controls" class="col-xs-6">
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="game">
+        <div class="container" >
+            <canvas id="canvasd" width="500" height="400"></canvas>
+        </div>
+    </div>
+    <div id="adContainer"></div>
+</body>
+</html>
+

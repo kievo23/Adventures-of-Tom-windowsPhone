@@ -1,0 +1,356 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-N50KKIU</Machine>
+    <WindowsUser>kev</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>52d6ba4e-3a86-4458-a710-3ac2c1a79b7c</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>5FDD0F2472D43788A3368DAB090DBB6ADFD369DDD0F838556612503345128321</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>52d6ba4e-3a86-4458-a710-3ac2c1a79b7c_1.0.0.0_neutral__684jebkp5wxsg</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>52d6ba4e-3a86-4458-a710-3ac2c1a79b7c_684jebkp5wxsg!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>52d6ba4e-3a86-4458-a710-3ac2c1a79b7c</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=kev</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-17T06:46:33.226</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\bootstrap\css\bootstrap-theme.css">
+      <PackagePath>bootstrap\css\bootstrap-theme.css</PackagePath>
+      <Modified>2016-02-11T07:58:23.056</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\bootstrap\css\bootstrap-theme.min.css">
+      <PackagePath>bootstrap\css\bootstrap-theme.min.css</PackagePath>
+      <Modified>2016-02-11T07:58:22.944</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\bootstrap\css\bootstrap.css">
+      <PackagePath>bootstrap\css\bootstrap.css</PackagePath>
+      <Modified>2016-02-11T07:58:22.876</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\bootstrap\css\bootstrap.min.css">
+      <PackagePath>bootstrap\css\bootstrap.min.css</PackagePath>
+      <Modified>2016-02-11T07:58:22.797</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\css\animations.css">
+      <PackagePath>css\animations.css</PackagePath>
+      <Modified>2016-02-11T07:58:23.117</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\css\style.css">
+      <PackagePath>css\style.css</PackagePath>
+      <Modified>2016-02-11T07:58:23.086</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2016-02-13T14:28:28.955</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\WinJS\css\ui-dark.css">
+      <PackagePath>WinJS\css\ui-dark.css</PackagePath>
+      <Modified>2015-10-10T17:57:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\WinJS\css\ui-light.css">
+      <PackagePath>WinJS\css\ui-light.css</PackagePath>
+      <Modified>2015-10-10T17:57:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\bootstrap\css\bootstrap-theme.css.map">
+      <PackagePath>bootstrap\css\bootstrap-theme.css.map</PackagePath>
+      <Modified>2016-02-11T07:58:22.989</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\bootstrap\css\bootstrap-theme.min.css.map">
+      <PackagePath>bootstrap\css\bootstrap-theme.min.css.map</PackagePath>
+      <Modified>2016-02-11T07:58:22.914</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\bootstrap\css\bootstrap.css.map">
+      <PackagePath>bootstrap\css\bootstrap.css.map</PackagePath>
+      <Modified>2016-02-11T07:58:22.845</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\bootstrap\css\bootstrap.min.css.map">
+      <PackagePath>bootstrap\css\bootstrap.min.css.map</PackagePath>
+      <Modified>2016-02-11T07:58:22.772</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\bootstrap\fonts\glyphicons-halflings-regular.eot">
+      <PackagePath>bootstrap\fonts\glyphicons-halflings-regular.eot</PackagePath>
+      <Modified>2016-02-11T07:58:22.691</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\bootstrap\fonts\glyphicons-halflings-regular.svg">
+      <PackagePath>bootstrap\fonts\glyphicons-halflings-regular.svg</PackagePath>
+      <Modified>2016-02-11T07:58:22.641</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\bootstrap\fonts\glyphicons-halflings-regular.ttf">
+      <PackagePath>bootstrap\fonts\glyphicons-halflings-regular.ttf</PackagePath>
+      <Modified>2016-02-11T07:58:22.534</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\WinJS\fonts\Symbols.ttf">
+      <PackagePath>WinJS\fonts\Symbols.ttf</PackagePath>
+      <Modified>2015-10-10T17:57:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\bootstrap\fonts\glyphicons-halflings-regular.woff">
+      <PackagePath>bootstrap\fonts\glyphicons-halflings-regular.woff</PackagePath>
+      <Modified>2016-02-11T07:58:22.391</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\bootstrap\fonts\glyphicons-halflings-regular.woff2">
+      <PackagePath>bootstrap\fonts\glyphicons-halflings-regular.woff2</PackagePath>
+      <Modified>2016-02-11T07:58:22.316</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\bootstrap\js\bootstrap.js">
+      <PackagePath>bootstrap\js\bootstrap.js</PackagePath>
+      <Modified>2016-02-11T07:58:22.244</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\bootstrap\js\bootstrap.min.js">
+      <PackagePath>bootstrap\js\bootstrap.min.js</PackagePath>
+      <Modified>2016-02-11T07:58:22.193</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\bootstrap\js\npm.js">
+      <PackagePath>bootstrap\js\npm.js</PackagePath>
+      <Modified>2016-02-11T07:58:22.032</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\js\custom.js">
+      <PackagePath>js\custom.js</PackagePath>
+      <Modified>2016-02-11T17:47:45.998</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2016-02-17T05:46:31.915</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\js\easeljs-0.8.2.min.js">
+      <PackagePath>js\easeljs-0.8.2.min.js</PackagePath>
+      <Modified>2016-02-11T07:58:23.296</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\js\mmadlib.js">
+      <PackagePath>js\mmadlib.js</PackagePath>
+      <Modified>2016-02-14T13:15:35.434</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\js\ndgmr.Collision.js">
+      <PackagePath>js\ndgmr.Collision.js</PackagePath>
+      <Modified>2016-02-11T07:58:23.232</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\js\preloadjs-0.6.2.min.js">
+      <PackagePath>js\preloadjs-0.6.2.min.js</PackagePath>
+      <Modified>2016-02-11T07:58:23.207</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\js\tweenjs-0.6.2.min.js">
+      <PackagePath>js\tweenjs-0.6.2.min.js</PackagePath>
+      <Modified>2016-02-11T07:58:23.331</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\WinJS\js\en-US\ui.strings.js">
+      <PackagePath>WinJS\js\en-US\ui.strings.js</PackagePath>
+      <Modified>2015-10-10T17:57:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\WinJS\js\base.js">
+      <PackagePath>WinJS\js\base.js</PackagePath>
+      <Modified>2015-10-10T17:57:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\WinJS\js\ui.js">
+      <PackagePath>WinJS\js\ui.js</PackagePath>
+      <Modified>2015-10-10T17:57:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2016-02-16T16:06:08.535</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\images\BadgeLogo.scale-200.png">
+      <PackagePath>images\BadgeLogo.scale-200.png</PackagePath>
+      <Modified>2016-02-15T06:39:35.904</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-17T06:45:17.041</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\images\Square150x150Logo.scale-100.png">
+      <PackagePath>images\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-16T19:01:33.683</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\images\Square44x44Logo.scale-100.png">
+      <PackagePath>images\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-15T06:39:35.904</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-16T19:02:30.948</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2015-10-10T17:57:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-10T17:57:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-10T17:57:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-15T06:20:13.789</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-16T19:03:52.594</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\img\background.png">
+      <PackagePath>img\background.png</PackagePath>
+      <Modified>2016-02-11T07:58:24.787</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\img\bird fly.png">
+      <PackagePath>img\bird fly.png</PackagePath>
+      <Modified>2016-02-11T07:58:23.694</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\img\bird.png">
+      <PackagePath>img\bird.png</PackagePath>
+      <Modified>2016-02-11T07:58:23.737</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\img\foods\cake_strawberry.png">
+      <PackagePath>img\foods\cake_strawberry.png</PackagePath>
+      <Modified>2016-02-11T07:58:24.967</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\img\foods\chocolates.png">
+      <PackagePath>img\foods\chocolates.png</PackagePath>
+      <Modified>2016-02-11T07:58:24.983</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\img\foods\cup_cake.png">
+      <PackagePath>img\foods\cup_cake.png</PackagePath>
+      <Modified>2016-02-11T07:58:25.016</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\img\foods\pizza.png">
+      <PackagePath>img\foods\pizza.png</PackagePath>
+      <Modified>2016-02-11T07:58:25.032</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\img\foods\pizza4.png">
+      <PackagePath>img\foods\pizza4.png</PackagePath>
+      <Modified>2016-02-11T07:58:25.052</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\img\ghost.png">
+      <PackagePath>img\ghost.png</PackagePath>
+      <Modified>2016-02-11T07:58:24.711</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\img\girl.png">
+      <PackagePath>img\girl.png</PackagePath>
+      <Modified>2016-02-13T15:28:47.653</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\img\girl2.png">
+      <PackagePath>img\girl2.png</PackagePath>
+      <Modified>2016-02-13T15:32:34.693</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\img\ground_inscene.png">
+      <PackagePath>img\ground_inscene.png</PackagePath>
+      <Modified>2016-02-11T07:58:23.371</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\img\hill.png">
+      <PackagePath>img\hill.png</PackagePath>
+      <Modified>2016-02-15T13:49:29.013</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\img\next\cancel.png">
+      <PackagePath>img\next\cancel.png</PackagePath>
+      <Modified>2016-02-11T07:58:25.278</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\img\next\failure.png">
+      <PackagePath>img\next\failure.png</PackagePath>
+      <Modified>2016-02-13T11:52:19.495</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\img\next\funny_love_by_alyssac_12-d5xz0ft.png">
+      <PackagePath>img\next\funny_love_by_alyssac_12-d5xz0ft.png</PackagePath>
+      <Modified>2016-02-13T11:18:38.718</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\img\next\play.png">
+      <PackagePath>img\next\play.png</PackagePath>
+      <Modified>2016-02-11T07:58:25.156</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\img\next\refresh.png">
+      <PackagePath>img\next\refresh.png</PackagePath>
+      <Modified>2016-02-11T07:58:25.183</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\img\next\success.png">
+      <PackagePath>img\next\success.png</PackagePath>
+      <Modified>2016-02-13T11:18:38.718</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\img\palmtress.png">
+      <PackagePath>img\palmtress.png</PackagePath>
+      <Modified>2016-02-16T19:51:23.874</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\img\progress\dollar.png">
+      <PackagePath>img\progress\dollar.png</PackagePath>
+      <Modified>2016-02-11T07:58:25.133</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\img\progress\health.png">
+      <PackagePath>img\progress\health.png</PackagePath>
+      <Modified>2016-02-11T07:58:25.095</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\img\progress\trophy.png">
+      <PackagePath>img\progress\trophy.png</PackagePath>
+      <Modified>2016-02-11T07:58:25.079</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\img\runningTom.png">
+      <PackagePath>img\runningTom.png</PackagePath>
+      <Modified>2016-02-11T07:58:24.695</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\img\scottpilgrim_multiple.png">
+      <PackagePath>img\scottpilgrim_multiple.png</PackagePath>
+      <Modified>2016-02-11T07:58:23.520</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\img\tree.png">
+      <PackagePath>img\tree.png</PackagePath>
+      <Modified>2016-02-15T13:51:44.472</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\img\tulips.png">
+      <PackagePath>img\tulips.png</PackagePath>
+      <Modified>2016-02-15T13:50:34.939</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\img\wolf.png">
+      <PackagePath>img\wolf.png</PackagePath>
+      <Modified>2016-02-11T07:58:23.755</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\img\groundsetup.jpg">
+      <PackagePath>img\groundsetup.jpg</PackagePath>
+      <Modified>2016-02-11T07:58:23.547</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\img\next\failure2.jpg">
+      <PackagePath>img\next\failure2.jpg</PackagePath>
+      <Modified>2016-02-11T07:58:25.260</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\img\next\success3.jpg">
+      <PackagePath>img\next\success3.jpg</PackagePath>
+      <Modified>2016-02-11T07:58:25.227</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\img\next\success4.jpg">
+      <PackagePath>img\next\success4.jpg</PackagePath>
+      <Modified>2016-02-11T07:58:25.326</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\img\running_girl.jpg">
+      <PackagePath>img\running_girl.jpg</PackagePath>
+      <Modified>2016-02-11T07:58:24.646</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\img\sky.jpg">
+      <PackagePath>img\sky.jpg</PackagePath>
+      <Modified>2016-02-11T07:58:23.491</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\img\success.jpg">
+      <PackagePath>img\success.jpg</PackagePath>
+      <Modified>2016-02-11T07:58:23.805</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-02-17T06:46:33.073</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

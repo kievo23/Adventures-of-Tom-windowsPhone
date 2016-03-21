@@ -1,0 +1,16 @@
+c:\users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\bin\Debug\ReverseMap\resources.pri
+c:\users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\bin\Debug\AppxManifest.xml
+c:\users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\bin\Debug\Adventures of Tom.build.appxrecipe
+c:\users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\bld\Debug\ResourceHandlingTask.state
+c:\users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\bld\Debug\priconfig.xml
+c:\users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\bld\Debug\priconfig.xml.intermediate
+c:\users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\bld\Debug\layout.resfiles
+c:\users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\bld\Debug\layout.resfiles.intermediate
+c:\users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\bld\Debug\resources.resfiles
+c:\users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\bld\Debug\resources.resfiles.intermediate
+c:\users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\bld\Debug\pri.resfiles
+c:\users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\bld\Debug\pri.resfiles.intermediate
+c:\users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\bld\Debug\qualifiers.txt
+c:\users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\bld\Debug\qualifiers.txt.intermediate
+c:\users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\bld\Debug\ProjectArchitectures.txt

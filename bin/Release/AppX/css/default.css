@@ -1,0 +1,17 @@
+﻿body {
+}
+#notices {
+    z-index: 10;
+    position:absolute !important;
+    background-image:url('/img/background.png');
+    background-size:cover;
+    height:auto;
+}
+#game {
+    z-index:1;
+    position:absolute !important;
+}
+.container {
+    background-color:rgba(43,43,43,0.5) !important;
+    color:aliceblue;
+}

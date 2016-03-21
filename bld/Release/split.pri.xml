@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="52d6ba4e-3a86-4458-a710-3ac2c1a79b7c" version="1.0" primary="true">
+		<Qualifiers>
+			<AlternateForm>UNPLATED</AlternateForm>
+			<Language>EN-US</Language>
+			<Scale>200</Scale>
+			<TargetSize>24</TargetSize>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="default.html" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/default.html">
+				<Candidate type="Path">
+					<Value>default.html</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="bootstrap">
+				<ResourceMapSubtree name="css">
+					<NamedResource name="bootstrap-theme.css" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/bootstrap/css/bootstrap-theme.css">
+						<Candidate type="Path">
+							<Value>bootstrap\css\bootstrap-theme.css</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="bootstrap-theme.css.map" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/bootstrap/css/bootstrap-theme.css.map">
+						<Candidate type="Path">
+							<Value>bootstrap\css\bootstrap-theme.css.map</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="bootstrap-theme.min.css" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/bootstrap/css/bootstrap-theme.min.css">
+						<Candidate type="Path">
+							<Value>bootstrap\css\bootstrap-theme.min.css</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="bootstrap-theme.min.css.map" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/bootstrap/css/bootstrap-theme.min.css.map">
+						<Candidate type="Path">
+							<Value>bootstrap\css\bootstrap-theme.min.css.map</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="bootstrap.css" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/bootstrap/css/bootstrap.css">
+						<Candidate type="Path">
+							<Value>bootstrap\css\bootstrap.css</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="bootstrap.css.map" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/bootstrap/css/bootstrap.css.map">
+						<Candidate type="Path">
+							<Value>bootstrap\css\bootstrap.css.map</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="bootstrap.min.css" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/bootstrap/css/bootstrap.min.css">
+						<Candidate type="Path">
+							<Value>bootstrap\css\bootstrap.min.css</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="bootstrap.min.css.map" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/bootstrap/css/bootstrap.min.css.map">
+						<Candidate type="Path">
+							<Value>bootstrap\css\bootstrap.min.css.map</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="fonts">
+					<NamedResource name="glyphicons-halflings-regular.eot" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/bootstrap/fonts/glyphicons-halflings-regular.eot">
+						<Candidate type="Path">
+							<Value>bootstrap\fonts\glyphicons-halflings-regular.eot</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="glyphicons-halflings-regular.svg" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/bootstrap/fonts/glyphicons-halflings-regular.svg">
+						<Candidate type="Path">
+							<Value>bootstrap\fonts\glyphicons-halflings-regular.svg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="glyphicons-halflings-regular.ttf" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/bootstrap/fonts/glyphicons-halflings-regular.ttf">
+						<Candidate type="Path">
+							<Value>bootstrap\fonts\glyphicons-halflings-regular.ttf</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="glyphicons-halflings-regular.woff" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/bootstrap/fonts/glyphicons-halflings-regular.woff">
+						<Candidate type="Path">
+							<Value>bootstrap\fonts\glyphicons-halflings-regular.woff</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="glyphicons-halflings-regular.woff2" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/bootstrap/fonts/glyphicons-halflings-regular.woff2">
+						<Candidate type="Path">
+							<Value>bootstrap\fonts\glyphicons-halflings-regular.woff2</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="js">
+					<NamedResource name="bootstrap.js" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/bootstrap/js/bootstrap.js">
+						<Candidate type="Path">
+							<Value>bootstrap\js\bootstrap.js</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="bootstrap.min.js" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/bootstrap/js/bootstrap.min.js">
+						<Candidate type="Path">
+							<Value>bootstrap\js\bootstrap.min.js</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="npm.js" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/bootstrap/js/npm.js">
+						<Candidate type="Path">
+							<Value>bootstrap\js\npm.js</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="css">
+				<NamedResource name="animations.css" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/css/animations.css">
+					<Candidate type="Path">
+						<Value>css\animations.css</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="default.css" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/css/default.css">
+					<Candidate type="Path">
+						<Value>css\default.css</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="images">
+				<NamedResource name="BadgeLogo.png" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/images/BadgeLogo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>images\BadgeLogo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="LockScreenLogo.png" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/images/LockScreenLogo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>images\LockScreenLogo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/images/SplashScreen.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>images\SplashScreen.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/images/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>images\Square150x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/images/Square44x44Logo.png">
+					<Candidate qualifiers="TargetSize-24, AlternateForm-UNPLATED" type="Path">
+						<Value>images\Square44x44Logo.targetsize-24_altform-unplated.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>images\Square44x44Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/images/StoreLogo.png">
+					<Candidate type="Path">
+						<Value>images\StoreLogo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/images/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>images\Wide310x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="img">
+				<NamedResource name="background.png" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/img/background.png">
+					<Candidate type="Path">
+						<Value>img\background.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="bird fly.png" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/img/bird fly.png">
+					<Candidate type="Path">
+						<Value>img\bird fly.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="bird.png" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/img/bird.png">
+					<Candidate type="Path">
+						<Value>img\bird.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ghost.png" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/img/ghost.png">
+					<Candidate type="Path">
+						<Value>img\ghost.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="girl.png" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/img/girl.png">
+					<Candidate type="Path">
+						<Value>img\girl.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="girl2.png" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/img/girl2.png">
+					<Candidate type="Path">
+						<Value>img\girl2.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="groundsetup.jpg" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/img/groundsetup.jpg">
+					<Candidate type="Path">
+						<Value>img\groundsetup.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ground_inscene.png" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/img/ground_inscene.png">
+					<Candidate type="Path">
+						<Value>img\ground_inscene.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="hill.png" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/img/hill.png">
+					<Candidate type="Path">
+						<Value>img\hill.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="palmtress.png" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/img/palmtress.png">
+					<Candidate type="Path">
+						<Value>img\palmtress.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="runningTom.png" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/img/runningTom.png">
+					<Candidate type="Path">
+						<Value>img\runningTom.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="running_girl.jpg" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/img/running_girl.jpg">
+					<Candidate type="Path">
+						<Value>img\running_girl.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="scottpilgrim_multiple.png" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/img/scottpilgrim_multiple.png">
+					<Candidate type="Path">
+						<Value>img\scottpilgrim_multiple.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="sky.jpg" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/img/sky.jpg">
+					<Candidate type="Path">
+						<Value>img\sky.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="success.jpg" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/img/success.jpg">
+					<Candidate type="Path">
+						<Value>img\success.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="tree.png" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/img/tree.png">
+					<Candidate type="Path">
+						<Value>img\tree.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="tulips.png" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/img/tulips.png">
+					<Candidate type="Path">
+						<Value>img\tulips.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="wolf.png" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/img/wolf.png">
+					<Candidate type="Path">
+						<Value>img\wolf.png</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="foods">
+					<NamedResource name="cake_strawberry.png" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/img/foods/cake_strawberry.png">
+						<Candidate type="Path">
+							<Value>img\foods\cake_strawberry.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="chocolates.png" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/img/foods/chocolates.png">
+						<Candidate type="Path">
+							<Value>img\foods\chocolates.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="cup_cake.png" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/img/foods/cup_cake.png">
+						<Candidate type="Path">
+							<Value>img\foods\cup_cake.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="pizza.png" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/img/foods/pizza.png">
+						<Candidate type="Path">
+							<Value>img\foods\pizza.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="pizza4.png" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/img/foods/pizza4.png">
+						<Candidate type="Path">
+							<Value>img\foods\pizza4.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="next">
+					<NamedResource name="cancel.png" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/img/next/cancel.png">
+						<Candidate type="Path">
+							<Value>img\next\cancel.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="failure.png" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/img/next/failure.png">
+						<Candidate type="Path">
+							<Value>img\next\failure.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="failure2.jpg" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/img/next/failure2.jpg">
+						<Candidate type="Path">
+							<Value>img\next\failure2.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="funny_love_by_alyssac_12-d5xz0ft.png" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/img/next/funny_love_by_alyssac_12-d5xz0ft.png">
+						<Candidate type="Path">
+							<Value>img\next\funny_love_by_alyssac_12-d5xz0ft.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="play.png" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/img/next/play.png">
+						<Candidate type="Path">
+							<Value>img\next\play.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="refresh.png" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/img/next/refresh.png">
+						<Candidate type="Path">
+							<Value>img\next\refresh.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="success.png" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/img/next/success.png">
+						<Candidate type="Path">
+							<Value>img\next\success.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="success3.jpg" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/img/next/success3.jpg">
+						<Candidate type="Path">
+							<Value>img\next\success3.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="success4.jpg" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/img/next/success4.jpg">
+						<Candidate type="Path">
+							<Value>img\next\success4.jpg</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="progress">
+					<NamedResource name="dollar.png" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/img/progress/dollar.png">
+						<Candidate type="Path">
+							<Value>img\progress\dollar.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="health.png" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/img/progress/health.png">
+						<Candidate type="Path">
+							<Value>img\progress\health.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="trophy.png" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/img/progress/trophy.png">
+						<Candidate type="Path">
+							<Value>img\progress\trophy.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="js">
+				<NamedResource name="default.js" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/js/default.js">
+					<Candidate type="Path">
+						<Value>js\default.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="easeljs-0.8.2.min.js" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/js/easeljs-0.8.2.min.js">
+					<Candidate type="Path">
+						<Value>js\easeljs-0.8.2.min.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="mmadlib.js" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/js/mmadlib.js">
+					<Candidate type="Path">
+						<Value>js\mmadlib.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ndgmr.Collision.js" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/js/ndgmr.Collision.js">
+					<Candidate type="Path">
+						<Value>js\ndgmr.Collision.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="preloadjs-0.6.2.min.js" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/js/preloadjs-0.6.2.min.js">
+					<Candidate type="Path">
+						<Value>js\preloadjs-0.6.2.min.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="tweenjs-0.6.2.min.js" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/js/tweenjs-0.6.2.min.js">
+					<Candidate type="Path">
+						<Value>js\tweenjs-0.6.2.min.js</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="WinJS">
+				<ResourceMapSubtree name="css">
+					<NamedResource name="ui-dark.css" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/WinJS/css/ui-dark.css">
+						<Candidate type="Path">
+							<Value>WinJS\css\ui-dark.css</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ui-light.css" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/WinJS/css/ui-light.css">
+						<Candidate type="Path">
+							<Value>WinJS\css\ui-light.css</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="fonts">
+					<NamedResource name="Symbols.ttf" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/WinJS/fonts/Symbols.ttf">
+						<Candidate type="Path">
+							<Value>WinJS\fonts\Symbols.ttf</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="js">
+					<NamedResource name="base.js" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/WinJS/js/base.js">
+						<Candidate type="Path">
+							<Value>WinJS\js\base.js</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ui.js" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/WinJS/js/ui.js">
+						<Candidate type="Path">
+							<Value>WinJS\js\ui.js</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ui.strings.js" uri="ms-resource://52d6ba4e-3a86-4458-a710-3ac2c1a79b7c/Files/WinJS/js/ui.strings.js">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="Path">
+							<Value>WinJS\js\en-US\ui.strings.js</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

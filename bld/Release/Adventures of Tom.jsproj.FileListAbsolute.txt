@@ -1,0 +1,16 @@
+C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\bin\Release\AppxManifest.xml
+C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\bin\Release\Adventures of Tom.build.appxrecipe
+C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\bld\Release\ResourceHandlingTask.state
+C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\bld\Release\priconfig.xml
+C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\bld\Release\priconfig.xml.intermediate
+C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\bld\Release\layout.resfiles
+C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\bld\Release\layout.resfiles.intermediate
+C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\bld\Release\resources.resfiles
+C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\bld\Release\resources.resfiles.intermediate
+C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\bld\Release\pri.resfiles
+C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\bld\Release\pri.resfiles.intermediate
+C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\bld\Release\qualifiers.txt
+C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\bld\Release\qualifiers.txt.intermediate
+C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\bld\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\bld\Release\ProjectArchitectures.txt
+C:\Users\kev\documents\visual studio 2015\Projects\Adventures of Tom\Adventures of Tom\bin\Release\ReverseMap\resources.pri
